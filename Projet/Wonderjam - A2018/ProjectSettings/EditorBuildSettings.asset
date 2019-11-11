@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Game/MainMenu/MainMenu.unity
+    guid: 05a9f7cbe3c64734ca186d1183023e8b
+  - enabled: 1
+    path: Assets/Game/Game/Game.unity
+    guid: 4eeb7ed37a218ce43bb01e2c91490d0f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Game/Game/Levels/Level1.unity
+    guid: f6c5ae9316f2f5441b340a98bb59aece
+  - enabled: 1
+    path: Assets/Plugins/Scene Transition/LoadingScreen.unity
+    guid: 2515ee5371940174f90bd274f9d478d0
+  - enabled: 1
+    path: Assets/Game/Game/UI/EndGameScreen.unity
+    guid: f978cf7103418ca4a91c7ec3f8304a4c
+  - enabled: 1
+    path: Assets/Game/Game/Levels/Level2.unity
+    guid: d081fbc487563914aaedde6a4112dbd9
+  - enabled: 1
+    path: Assets/Game/Dossiers Inidividuels/Benoit/UI_Gestion.unity
+    guid: 5d0f54ddc6b3d704681b54d4d741356e
+  - enabled: 1
+    path: Assets/Game/Dossiers Inidividuels/Gabriel/UICombat.unity
+    guid: a5bbd5f32f386e941be029f0a40f59cc
+  - enabled: 1
+    path: Assets/Game/Game/Levels/Level3.unity
+    guid: 0b9d192583c57494e9dc36f240795554
+  - enabled: 1
+    path: Assets/Game/Game/Levels/Level4.unity
+    guid: d4fc51eb567009d4b90cd0da2efb90ae
+  - enabled: 1
+    path: Assets/Game/Game/Levels/Level5.unity
+    guid: 2157393db0e95a64098b9b8bdfc242c8
+  - enabled: 1
+    path: Assets/Game/Dossiers Inidividuels/Benoit/NewMutation.unity
+    guid: 31bffcf9f516d07469cc83a88e637174
+  m_configObjects: {}

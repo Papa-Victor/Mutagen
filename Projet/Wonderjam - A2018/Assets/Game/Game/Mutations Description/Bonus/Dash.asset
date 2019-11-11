@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5333da33efd970e4d8ddd3f77549331c, type: 3}
+  m_Name: Dash
+  m_EditorClassIdentifier: Assembly-CSharp::MutationDescription
+  Nom: Bull rush
+  Icon: {fileID: 21300000, guid: 8823bc41ae303bd4cb7617755e1e5fdc, type: 3}
+  type: 0
+  mutationLevels:
+  - description: Main attacks slow enemies surrounding
+    price: 10
+  - description: Now stun the enemies
+    price: 20
+  - description: Now makes enemies mad (attacking each other)
+    price: 40
